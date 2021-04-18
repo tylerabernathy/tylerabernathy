@@ -6,6 +6,9 @@ Subway Surfers Auto Ad Clicker is an auto clicker meant to obtain the user free 
 
 - 1920x1080 desktop resolution
 - Subway Surfers installed on BlueStacks
+- Python 3
+- Pillow
+- pynput
 
 ## Usage
 
