@@ -1,4 +1,4 @@
-from time import *
+from time import sleep
 
 import PIL.ImageGrab
 from pynput.mouse import Button, Controller
